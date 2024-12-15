@@ -1,5 +1,9 @@
 # python_basics_calculator
 Starting learning python, so let's practice!
+Python Data Types
+Variables
+Operators
+Basic I/O Operations
 
 # Calculadora com operadores
 
