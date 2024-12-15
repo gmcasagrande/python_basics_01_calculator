@@ -1,5 +1,5 @@
 # python_basics_calculator
-- Starting learning python, so let's practice!
+ Starting learning python, so let's practice!
 - Python Data Types
 - Variables
 - Operators
