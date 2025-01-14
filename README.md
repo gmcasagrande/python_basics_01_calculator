@@ -9,7 +9,7 @@
 
 1) Crie um programa que solicite dois valores numéricos à pessoa usuária e imprima a soma dos dois valores.
 2) Crie um programa que solicite três valores numéricos à pessoa usuária e imprima a soma dos três valores.
-3) Crie um programa que solicite dois valores numéricos à pessoa usuária e imprima a subtração do primeiro pelo o segundo valor.
+3) Crie um programa que solicite dois valores numéricos à pessoa usuária e imprima a subtração do primeiro pelo segundo valor.
 4) Crie um programa que solicite dois valores numéricos à pessoa usuária e imprima a multiplicação dos dois valores.
 5) Crie um programa que solicite dois valores numéricos, um numerador e um denominador, e realize a divisão entre os dois valores. Deixe claro que o valor do denominador não pode ser 0.
 6) Crie um programa que solicite dois valores numéricos, um operador e uma potência, e realize a exponenciação entre esses dois valores.
